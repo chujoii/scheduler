@@ -12,7 +12,7 @@ README.org --- description
 
 
 
-Copyright (C) 2012 Roman V. Prikhodchenko
+Copyright (C) 2015 Roman V. Prikhodchenko
 
 
 
@@ -44,7 +44,7 @@ scheduler time-table university
 
 * Description:
 Проект по созданию программы создающей расписание университетских занятий.
-
+Project to create a program to create a timetable university studies.
 * Usage:
 use it
 
